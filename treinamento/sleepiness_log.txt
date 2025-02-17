@@ -1,0 +1,4 @@
+2025-01-23 16:15:30,833 - Sleepiness event: 1.38 seconds
+2025-01-23 16:15:31,399 - Sleepiness event: 0.19 seconds
+2025-01-23 16:15:38,346 - Sleepiness event: 6.66 seconds
+2025-01-23 16:15:38,661 - Sleepiness event: 0.12 seconds
