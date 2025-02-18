@@ -1,0 +1,14 @@
+2025-02-18 16:02:56,488 - detector_fadiga - INFO - Sistema de logging inicializado
+2025-02-18 16:02:56,643 - detector_fadiga - ERROR - Erro ao inicializar alertas sonoros: No file 'sounds/alert.mp3' found in working directory 'C:\Users\Lucas Neves\Documents\DOCUMENTOSDIVERSOS\DocumentosFaculdade\TCC\Driver-Drowsiness'.
+2025-02-18 16:02:56,644 - detector_fadiga - INFO - MediaPipe inicializado
+2025-02-18 16:02:56,644 - detector_fadiga - INFO - Novo modelo de detecção de anomalias criado
+2025-02-18 16:02:56,644 - detector_fadiga - INFO - Threads secundárias iniciadas
+2025-02-18 16:02:59,035 - detector_fadiga - INFO - Iniciando detector de fadiga avançado...
+2025-02-18 16:03:01,155 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.93, Duração: 1.52s
+2025-02-18 16:03:05,682 - detector_fadiga - INFO - Bocejo detectado - MAR: 4.00, Duração: 1.50s
+2025-02-18 16:03:10,210 - detector_fadiga - INFO - Bocejo detectado - MAR: 4.00, Duração: 1.50s
+2025-02-18 16:03:14,738 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.83, Duração: 1.50s
+2025-02-18 16:03:19,266 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.84, Duração: 1.51s
+2025-02-18 16:03:23,792 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.87, Duração: 1.50s
+2025-02-18 16:03:28,323 - detector_fadiga - INFO - Bocejo detectado - MAR: 4.00, Duração: 1.51s
+2025-02-18 16:03:32,849 - detector_fadiga - INFO - Bocejo detectado - MAR: 4.02, Duração: 1.50s

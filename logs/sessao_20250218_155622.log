@@ -1,0 +1,46 @@
+2025-02-18 15:56:22,579 - detector_fadiga - INFO - Sistema de logging inicializado
+2025-02-18 15:56:22,742 - detector_fadiga - ERROR - Erro ao inicializar alertas sonoros: No file 'sounds/alert.mp3' found in working directory 'C:\Users\Lucas Neves\Documents\DOCUMENTOSDIVERSOS\DocumentosFaculdade\TCC\Driver-Drowsiness'.
+2025-02-18 15:56:22,742 - detector_fadiga - INFO - MediaPipe inicializado
+2025-02-18 15:56:22,743 - detector_fadiga - INFO - Novo modelo de detecção de anomalias criado
+2025-02-18 15:56:22,743 - detector_fadiga - INFO - Threads secundárias iniciadas
+2025-02-18 15:56:25,013 - detector_fadiga - INFO - Iniciando detector de fadiga avançado...
+2025-02-18 15:56:26,119 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.34, Duração: 0.51s
+2025-02-18 15:56:26,695 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.70, Duração: 0.53s
+2025-02-18 15:56:27,239 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.91, Duração: 0.51s
+2025-02-18 15:56:27,799 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.92, Duração: 0.53s
+2025-02-18 15:56:28,343 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.95, Duração: 0.51s
+2025-02-18 15:56:28,917 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.91, Duração: 0.51s
+2025-02-18 15:56:29,449 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.84, Duração: 0.52s
+2025-02-18 15:56:30,023 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.85, Duração: 0.54s
+2025-02-18 15:56:30,584 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.79, Duração: 0.53s
+2025-02-18 15:56:31,127 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.91, Duração: 0.51s
+2025-02-18 15:56:31,559 - detector_fadiga - WARNING - ALERTA: Fadiga detectada - Nível de fadiga: 52.1
+2025-02-18 15:56:31,688 - detector_fadiga - INFO - Bocejo detectado - MAR: 4.03, Duração: 0.53s
+2025-02-18 15:56:32,230 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.86, Duração: 0.51s
+2025-02-18 15:56:32,809 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.90, Duração: 0.55s
+2025-02-18 15:56:33,368 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.77, Duração: 0.53s
+2025-02-18 15:56:33,912 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.69, Duração: 0.51s
+2025-02-18 15:56:34,473 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.64, Duração: 0.53s
+2025-02-18 15:56:35,015 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.59, Duração: 0.51s
+2025-02-18 15:56:35,592 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.55, Duração: 0.54s
+2025-02-18 15:56:36,150 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.61, Duração: 0.53s
+2025-02-18 15:56:36,696 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.63, Duração: 0.51s
+2025-02-18 15:56:37,256 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.59, Duração: 0.53s
+2025-02-18 15:56:37,799 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.75, Duração: 0.51s
+2025-02-18 15:56:38,341 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.69, Duração: 0.51s
+2025-02-18 15:56:38,934 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.66, Duração: 0.53s
+2025-02-18 15:56:39,479 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.74, Duração: 0.51s
+2025-02-18 15:56:40,040 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.93, Duração: 0.53s
+2025-02-18 15:56:40,583 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.93, Duração: 0.51s
+2025-02-18 15:56:41,160 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.99, Duração: 0.54s
+2025-02-18 15:56:41,723 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.99, Duração: 0.53s
+2025-02-18 15:56:42,262 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.91, Duração: 0.51s
+2025-02-18 15:56:42,823 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.98, Duração: 0.53s
+2025-02-18 15:56:43,367 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.82, Duração: 0.51s
+2025-02-18 15:56:43,911 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.75, Duração: 0.51s
+2025-02-18 15:56:44,440 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.72, Duração: 0.51s
+2025-02-18 15:56:44,982 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.80, Duração: 0.51s
+2025-02-18 15:56:45,542 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.71, Duração: 0.53s
+2025-02-18 15:56:46,119 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.75, Duração: 0.51s
+2025-02-18 15:56:46,680 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.71, Duração: 0.53s
+2025-02-18 15:56:47,222 - detector_fadiga - INFO - Bocejo detectado - MAR: 3.71, Duração: 0.51s

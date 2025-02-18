@@ -1,0 +1,12 @@
+{
+    "timestamp_inicio": "2025-02-18T16:29:46.161213",
+    "alertas": [],
+    "metricas": {
+        "piscadas_total": 0,
+        "bocejos_total": 0,
+        "micro_cochilos": 0,
+        "duracao_total": 0.0,
+        "nivel_fadiga_medio": 0,
+        "alertas_total": 0
+    }
+}
